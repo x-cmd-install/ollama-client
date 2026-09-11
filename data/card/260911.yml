@@ -7,7 +7,7 @@ about:
   latestVersion: "0.13.3"
   latestRelease: "0.13.3"
   latestPrerelease: "0.13.2-rc.2"
-  collectedAt: 2026-09-11T06:24:06Z
+  collectedAt: 2026-09-11T18:30:17Z
 timeline:
   created: 2025-05-20
   lastCommit: 2026-09-03
@@ -88,7 +88,7 @@ total:
   commit: 1292
 ---
 path: /home/runner/.x-repo/github.com/Shishir435/ollama-client
-collectedAt: 2026-09-11T06:24:10Z
+collectedAt: 2026-09-11T18:30:24Z
 loc:
   TypeScript:
     code: 135434
