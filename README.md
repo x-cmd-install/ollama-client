@@ -4,7 +4,7 @@
 
 Ollama Client – Chat with Local LLMs Inside Your Browser  A lightweight, privacy‑first extension to chat with local LLMs via Ollama, LM Studio, and llama.cpp. Supports streaming, stop/regenerate, RAG, and easy model switching — all without cloud APIs or data leaks.
 
-![ollama-client](https://repo.x-cmd.io/ollama-client.svg)
+[![x-cmd/install — ollama-client Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ollama-client.svg)](https://x-cmd.com/install/ollama-client)
 
 ## Install
 
@@ -32,7 +32,7 @@ Total: **204,493** lines of code across **1326** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `0.13.3` (2026-09-02)
+- **Latest**: `0.13.4` (2026-09-19)
 - **Last commit**: 2026-09-03
 - **Assets in release**: 11
 
@@ -42,34 +42,34 @@ Total: **204,493** lines of code across **1326** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 329 · **Open PRs**: 0 · **Closed issues**: 24 · **Open issues**: 6 · **Commits**: 1292
+- **Releases**: 53 · **Merged PRs**: 334 · **Open PRs**: 0 · **Closed issues**: 24 · **Open issues**: 6 · **Commits**: 1292
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 84 | 0 | 3 | 3 | 38 |
-| last60d | 2026-07-20 | 13 | 191 | 0 | 5 | 3 | 194 |
-| 90d | 2026-06-20 | 20 | 241 | 0 | 6 | 4 | 369 |
-| last180d | 2026-03-22 | 30 | 295 | 0 | 17 | 5 | 709 |
-| 360d | 2025-09-23 | 36 | 308 | 0 | 18 | 5 | 939 |
-| last720d | 2024-09-28 | 52 | 329 | 0 | 24 | 6 | 1292 |
+| 30d | 2026-08-21 | 4 | 84 | 0 | 3 | 3 | 25 |
+| last60d | 2026-07-22 | 14 | 192 | 0 | 5 | 3 | 128 |
+| 90d | 2026-06-22 | 20 | 243 | 0 | 6 | 4 | 322 |
+| last180d | 2026-03-24 | 31 | 300 | 0 | 17 | 5 | 700 |
+| 360d | 2025-09-25 | 37 | 313 | 0 | 18 | 5 | 939 |
+| last720d | 2024-09-30 | 53 | 334 | 0 | 24 | 6 | 1292 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [olc.ps1](https://github.com/Shishir435/ollama-client/releases/download/0.13.3/olc.ps1) | 2.8 KiB | `other` |
-| [olc.ps1.sha256](https://github.com/Shishir435/ollama-client/releases/download/0.13.3/olc.ps1.sha256) | 74 B | `other` |
-| [olc.sh](https://github.com/Shishir435/ollama-client/releases/download/0.13.3/olc.sh) | 2.5 KiB | `other` |
-| [olc.sh.sha256](https://github.com/Shishir435/ollama-client/releases/download/0.13.3/olc.sh.sha256) | 73 B | `other` |
-| [olc.tar.gz](https://github.com/Shishir435/ollama-client/releases/download/0.13.3/olc.tar.gz) | 64.4 KiB | `native/unknown` |
-| [olc.tar.gz.sha256](https://github.com/Shishir435/ollama-client/releases/download/0.13.3/olc.tar.gz.sha256) | 77 B | `other` |
-| [olc.zip](https://github.com/Shishir435/ollama-client/releases/download/0.13.3/olc.zip) | 67.7 KiB | `other` |
-| [olc.zip.sha256](https://github.com/Shishir435/ollama-client/releases/download/0.13.3/olc.zip.sha256) | 74 B | `other` |
-| [ollama-client-0.13.3-chrome.zip](https://github.com/Shishir435/ollama-client/releases/download/0.13.3/ollama-client-0.13.3-chrome.zip) | 2.8 MiB | `other` |
-| [ollama-client-0.13.3-firefox.zip](https://github.com/Shishir435/ollama-client/releases/download/0.13.3/ollama-client-0.13.3-firefox.zip) | 3.8 MiB | `other` |
-| [ollama-client-0.13.3-sources.zip](https://github.com/Shishir435/ollama-client/releases/download/0.13.3/ollama-client-0.13.3-sources.zip) | 3.2 MiB | `other` |
+| [olc.ps1](https://github.com/Shishir435/ollama-client/releases/download/0.13.4/olc.ps1) | 2.8 KiB | `other` |
+| [olc.ps1.sha256](https://github.com/Shishir435/ollama-client/releases/download/0.13.4/olc.ps1.sha256) | 74 B | `other` |
+| [olc.sh](https://github.com/Shishir435/ollama-client/releases/download/0.13.4/olc.sh) | 2.5 KiB | `other` |
+| [olc.sh.sha256](https://github.com/Shishir435/ollama-client/releases/download/0.13.4/olc.sh.sha256) | 73 B | `other` |
+| [olc.tar.gz](https://github.com/Shishir435/ollama-client/releases/download/0.13.4/olc.tar.gz) | 64.9 KiB | `native/unknown` |
+| [olc.tar.gz.sha256](https://github.com/Shishir435/ollama-client/releases/download/0.13.4/olc.tar.gz.sha256) | 77 B | `other` |
+| [olc.zip](https://github.com/Shishir435/ollama-client/releases/download/0.13.4/olc.zip) | 68.3 KiB | `other` |
+| [olc.zip.sha256](https://github.com/Shishir435/ollama-client/releases/download/0.13.4/olc.zip.sha256) | 74 B | `other` |
+| [ollama-client-0.13.4-chrome.zip](https://github.com/Shishir435/ollama-client/releases/download/0.13.4/ollama-client-0.13.4-chrome.zip) | 2.8 MiB | `other` |
+| [ollama-client-0.13.4-firefox.zip](https://github.com/Shishir435/ollama-client/releases/download/0.13.4/ollama-client-0.13.4-firefox.zip) | 3.8 MiB | `other` |
+| [ollama-client-0.13.4-sources.zip](https://github.com/Shishir435/ollama-client/releases/download/0.13.4/ollama-client-0.13.4-sources.zip) | 3.2 MiB | `other` |
 
 ## Improve this data
 
@@ -80,4 +80,4 @@ Install metadata for ollama-client lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:36:32Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:32:04Z._
