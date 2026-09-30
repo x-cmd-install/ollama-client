@@ -42,18 +42,18 @@ Total: **265,387** lines of code across **1548** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 357 · **Open PRs**: 0 · **Closed issues**: 25 · **Open issues**: 8 · **Commits**: 1355
+- **Releases**: 54 · **Merged PRs**: 360 · **Open PRs**: 1 · **Closed issues**: 25 · **Open issues**: 8 · **Commits**: 1355
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 5 | 85 | 0 | 2 | 5 | 54 |
-| last60d | 2026-07-31 | 11 | 180 | 0 | 5 | 5 | 165 |
-| 90d | 2026-07-01 | 20 | 246 | 0 | 6 | 6 | 284 |
-| last180d | 2026-04-02 | 32 | 323 | 0 | 15 | 7 | 753 |
-| 360d | 2025-10-04 | 38 | 336 | 0 | 19 | 7 | 997 |
-| last720d | 2024-10-09 | 54 | 357 | 0 | 25 | 8 | 1355 |
+| 30d | 2026-08-31 | 3 | 85 | 1 | 2 | 4 | 54 |
+| last60d | 2026-08-01 | 10 | 183 | 1 | 5 | 5 | 165 |
+| 90d | 2026-07-02 | 19 | 248 | 1 | 6 | 6 | 284 |
+| last180d | 2026-04-03 | 32 | 326 | 1 | 15 | 7 | 753 |
+| 360d | 2025-10-05 | 38 | 339 | 1 | 19 | 7 | 997 |
+| last720d | 2024-10-10 | 54 | 360 | 1 | 25 | 8 | 1355 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for ollama-client lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T07:03:25Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:55:33Z._
