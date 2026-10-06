@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 2951289,
       "digest": "sha256:aa7c83d9f407756910057818f5d42153c1584061f6861e0bf26063910e24b23c",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-19T22:13:11Z",
       "updated_at": "2026-09-19T22:13:11Z",
       "browser_download_url": "https://github.com/Shishir435/ollama-client/releases/download/0.13.4/ollama-client-0.13.4-chrome.zip"
