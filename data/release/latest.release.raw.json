@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 101702,
       "digest": "sha256:e7cea74d79a55dd38cddab67b6e034c3e4c1290dda47c2113d85a58a2518345e",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-12T20:59:34Z",
       "updated_at": "2026-10-12T20:59:35Z",
       "browser_download_url": "https://github.com/Shishir435/ollama-client/releases/download/0.14.0/olc.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 23453032,
       "digest": "sha256:a5969e45413cbcc1a54a051594621bc604070c1711d6f43b5ab29c0b120c8d06",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-10-12T20:59:34Z",
       "updated_at": "2026-10-12T20:59:35Z",
       "browser_download_url": "https://github.com/Shishir435/ollama-client/releases/download/0.14.0/ollama-client-0.14.0-chrome.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 24254430,
       "digest": "sha256:6836db33b933e506f898ea1d2c836750fbd4cf4164a0963ca3ec31f50a7e0616",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-12T20:59:34Z",
       "updated_at": "2026-10-12T20:59:35Z",
       "browser_download_url": "https://github.com/Shishir435/ollama-client/releases/download/0.14.0/ollama-client-0.14.0-firefox.zip"
