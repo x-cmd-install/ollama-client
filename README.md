@@ -32,28 +32,28 @@ Total: **331,859** lines of code across **1741** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `0.14.0` (2026-10-12)
+- **Latest**: `0.15.0-rc.1` (2026-10-12)
 - **Last commit**: 2026-10-12
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 67 · **Forks**: 13 · **Open issues**: 37 · **Contributors**: 2
+- **Stars**: 67 · **Forks**: 13 · **Open issues**: 38 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 390 · **Open PRs**: 1 · **Closed issues**: 25 · **Open issues**: 12 · **Commits**: 1404
+- **Releases**: 57 · **Merged PRs**: 395 · **Open PRs**: 0 · **Closed issues**: 25 · **Open issues**: 13 · **Commits**: 1404
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 4 | 62 | 1 | 1 | 6 | 61 |
-| last60d | 2026-08-17 | 7 | 146 | 1 | 4 | 9 | 142 |
-| 90d | 2026-07-18 | 17 | 264 | 1 | 6 | 9 | 299 |
-| last180d | 2026-04-19 | 33 | 354 | 1 | 14 | 11 | 798 |
-| 360d | 2025-10-21 | 40 | 369 | 1 | 19 | 11 | 1042 |
-| last720d | 2024-10-26 | 56 | 390 | 1 | 25 | 12 | 1404 |
+| 30d | 2026-09-17 | 5 | 66 | 0 | 1 | 7 | 61 |
+| last60d | 2026-08-18 | 8 | 151 | 0 | 4 | 10 | 142 |
+| 90d | 2026-07-19 | 18 | 258 | 0 | 6 | 10 | 299 |
+| last180d | 2026-04-20 | 34 | 359 | 0 | 14 | 12 | 798 |
+| 360d | 2025-10-22 | 41 | 374 | 0 | 19 | 12 | 1042 |
+| last720d | 2024-10-27 | 57 | 395 | 0 | 25 | 13 | 1404 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for ollama-client lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:47:19Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:37:03Z._
