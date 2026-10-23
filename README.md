@@ -48,12 +48,12 @@ Total: **331,859** lines of code across **1741** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 3 | 59 | 0 | 0 | 8 | 43 |
-| last60d | 2026-08-23 | 8 | 147 | 0 | 3 | 11 | 130 |
-| 90d | 2026-07-24 | 16 | 252 | 0 | 6 | 11 | 263 |
-| last180d | 2026-04-25 | 34 | 363 | 0 | 13 | 13 | 797 |
-| 360d | 2025-10-27 | 41 | 378 | 0 | 19 | 13 | 1042 |
-| last720d | 2024-11-01 | 57 | 399 | 0 | 25 | 14 | 1404 |
+| 30d | 2026-09-23 | 3 | 53 | 0 | 0 | 7 | 43 |
+| last60d | 2026-08-24 | 8 | 144 | 0 | 3 | 11 | 130 |
+| 90d | 2026-07-25 | 16 | 252 | 0 | 5 | 11 | 263 |
+| last180d | 2026-04-26 | 34 | 363 | 0 | 13 | 13 | 797 |
+| 360d | 2025-10-28 | 41 | 378 | 0 | 19 | 13 | 1042 |
+| last720d | 2024-11-02 | 57 | 399 | 0 | 25 | 14 | 1404 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for ollama-client lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T06:00:13Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T06:01:43Z._
