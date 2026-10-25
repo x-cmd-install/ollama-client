@@ -32,28 +32,28 @@ Total: **331,859** lines of code across **1741** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `0.15.0-rc.1` (2026-10-12)
+- **Latest**: `0.15.0-rc.2` (2026-10-12)
 - **Last commit**: 2026-10-12
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 68 · **Forks**: 12 · **Open issues**: 39 · **Contributors**: 2
+- **Stars**: 68 · **Forks**: 12 · **Open issues**: 40 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 399 · **Open PRs**: 1 · **Closed issues**: 25 · **Open issues**: 14 · **Commits**: 1404
+- **Releases**: 58 · **Merged PRs**: 404 · **Open PRs**: 0 · **Closed issues**: 25 · **Open issues**: 15 · **Commits**: 1404
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 3 | 52 | 1 | 0 | 6 | 43 |
-| last60d | 2026-08-25 | 8 | 144 | 1 | 3 | 11 | 130 |
-| 90d | 2026-07-26 | 16 | 245 | 1 | 5 | 11 | 263 |
-| last180d | 2026-04-27 | 34 | 363 | 1 | 13 | 13 | 797 |
-| 360d | 2025-10-29 | 41 | 378 | 1 | 19 | 13 | 1042 |
-| last720d | 2024-11-03 | 57 | 399 | 1 | 25 | 14 | 1404 |
+| 30d | 2026-09-25 | 4 | 55 | 0 | 0 | 7 | 21 |
+| last60d | 2026-08-26 | 9 | 148 | 0 | 3 | 12 | 110 |
+| 90d | 2026-07-27 | 16 | 248 | 0 | 5 | 12 | 213 |
+| last180d | 2026-04-28 | 34 | 368 | 0 | 13 | 14 | 797 |
+| 360d | 2025-10-30 | 42 | 383 | 0 | 19 | 14 | 1015 |
+| last720d | 2024-11-04 | 58 | 404 | 0 | 25 | 15 | 1404 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for ollama-client lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:52:48Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:54:46Z._
