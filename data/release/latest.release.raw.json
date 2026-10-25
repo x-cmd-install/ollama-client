@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2902,
       "digest": "sha256:4b1bcd507c6775bd6e30b10363041b27c8fd2761c4e402f540121a9a49c6da39",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-12T20:59:35Z",
       "updated_at": "2026-10-12T20:59:35Z",
       "browser_download_url": "https://github.com/Shishir435/ollama-client/releases/download/0.14.0/olc.ps1"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 96806,
       "digest": "sha256:bc72050517cb839cd16e7edf488f99ed43fdfd59606c56b44b0ded5ee443483c",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-10-12T20:59:34Z",
       "updated_at": "2026-10-12T20:59:34Z",
       "browser_download_url": "https://github.com/Shishir435/ollama-client/releases/download/0.14.0/olc.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 77,
       "digest": "sha256:d3f02a317918102921bb15d97f5c49c27b04e9413b5e3a70b27dae2daab7c218",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-10-12T20:59:34Z",
       "updated_at": "2026-10-12T20:59:34Z",
       "browser_download_url": "https://github.com/Shishir435/ollama-client/releases/download/0.14.0/olc.tar.gz.sha256"
