@@ -14,13 +14,13 @@ x install ollama-client
 
 ## Code insight
 
-Total: **396,726** lines of code across **1972** files in the top 5 languages.
+Total: **398,180** lines of code across **1980** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 287,151 | 31,329 | 24,571 | 1484 |
-| Tsx | 47,875 | 2,244 | 3,903 | 366 |
-| Json | 34,250 | 0 | 0 | 58 |
+| TypeScript | 288,062 | 31,317 | 24,581 | 1490 |
+| Tsx | 48,369 | 2,243 | 3,897 | 368 |
+| Json | 34,295 | 0 | 0 | 58 |
 | JavaScript | 13,196 | 1,212 | 481 | 59 |
 | Yaml | 12,092 | 4 | 3,337 | 5 |
 
@@ -32,44 +32,44 @@ Total: **396,726** lines of code across **1972** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `0.15.0-rc.3` (2026-10-12)
+- **Latest**: `0.15.0` (2026-11-10)
 - **Last commit**: 2026-11-10
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 71 · **Forks**: 14 · **Open issues**: 41 · **Contributors**: 2
+- **Stars**: 72 · **Forks**: 14 · **Open issues**: 41 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 439 · **Open PRs**: 2 · **Closed issues**: 25 · **Open issues**: 16 · **Commits**: 1460
+- **Releases**: 61 · **Merged PRs**: 443 · **Open PRs**: 1 · **Closed issues**: 25 · **Open issues**: 16 · **Commits**: 1465
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 4 | 58 | 2 | 0 | 5 | 51 |
-| last60d | 2026-09-11 | 7 | 118 | 2 | 1 | 11 | 122 |
-| 90d | 2026-08-12 | 12 | 220 | 2 | 4 | 13 | 197 |
-| last180d | 2026-05-14 | 35 | 403 | 2 | 9 | 14 | 846 |
-| 360d | 2025-11-15 | 41 | 415 | 2 | 19 | 15 | 1069 |
-| last720d | 2024-11-20 | 59 | 439 | 2 | 25 | 16 | 1460 |
+| 30d | 2026-10-12 | 6 | 59 | 1 | 0 | 5 | 55 |
+| last60d | 2026-09-12 | 9 | 122 | 1 | 1 | 11 | 126 |
+| 90d | 2026-08-13 | 14 | 211 | 1 | 4 | 13 | 201 |
+| last180d | 2026-05-15 | 37 | 407 | 1 | 9 | 14 | 850 |
+| 360d | 2025-11-16 | 42 | 419 | 1 | 19 | 15 | 1073 |
+| last720d | 2024-11-21 | 61 | 443 | 1 | 25 | 16 | 1465 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [olc.ps1](https://github.com/Shishir435/ollama-client/releases/download/0.14.0/olc.ps1) | 2.8 KiB | `other` |
-| [olc.ps1.sha256](https://github.com/Shishir435/ollama-client/releases/download/0.14.0/olc.ps1.sha256) | 74 B | `other` |
-| [olc.sh](https://github.com/Shishir435/ollama-client/releases/download/0.14.0/olc.sh) | 2.5 KiB | `other` |
-| [olc.sh.sha256](https://github.com/Shishir435/ollama-client/releases/download/0.14.0/olc.sh.sha256) | 73 B | `other` |
-| [olc.tar.gz](https://github.com/Shishir435/ollama-client/releases/download/0.14.0/olc.tar.gz) | 94.5 KiB | `native/unknown` |
-| [olc.tar.gz.sha256](https://github.com/Shishir435/ollama-client/releases/download/0.14.0/olc.tar.gz.sha256) | 77 B | `other` |
-| [olc.zip](https://github.com/Shishir435/ollama-client/releases/download/0.14.0/olc.zip) | 99.3 KiB | `other` |
-| [olc.zip.sha256](https://github.com/Shishir435/ollama-client/releases/download/0.14.0/olc.zip.sha256) | 74 B | `other` |
-| [ollama-client-0.14.0-chrome.zip](https://github.com/Shishir435/ollama-client/releases/download/0.14.0/ollama-client-0.14.0-chrome.zip) | 22.4 MiB | `other` |
-| [ollama-client-0.14.0-firefox.zip](https://github.com/Shishir435/ollama-client/releases/download/0.14.0/ollama-client-0.14.0-firefox.zip) | 23.1 MiB | `other` |
-| [ollama-client-0.14.0-sources.zip](https://github.com/Shishir435/ollama-client/releases/download/0.14.0/ollama-client-0.14.0-sources.zip) | 4.2 MiB | `other` |
+| [olc.ps1](https://github.com/Shishir435/ollama-client/releases/download/0.15.0/olc.ps1) | 2.8 KiB | `other` |
+| [olc.ps1.sha256](https://github.com/Shishir435/ollama-client/releases/download/0.15.0/olc.ps1.sha256) | 74 B | `other` |
+| [olc.sh](https://github.com/Shishir435/ollama-client/releases/download/0.15.0/olc.sh) | 2.5 KiB | `other` |
+| [olc.sh.sha256](https://github.com/Shishir435/ollama-client/releases/download/0.15.0/olc.sh.sha256) | 73 B | `other` |
+| [olc.tar.gz](https://github.com/Shishir435/ollama-client/releases/download/0.15.0/olc.tar.gz) | 95.0 KiB | `native/unknown` |
+| [olc.tar.gz.sha256](https://github.com/Shishir435/ollama-client/releases/download/0.15.0/olc.tar.gz.sha256) | 77 B | `other` |
+| [olc.zip](https://github.com/Shishir435/ollama-client/releases/download/0.15.0/olc.zip) | 99.9 KiB | `other` |
+| [olc.zip.sha256](https://github.com/Shishir435/ollama-client/releases/download/0.15.0/olc.zip.sha256) | 74 B | `other` |
+| [ollama-client-0.15.0-chrome.zip](https://github.com/Shishir435/ollama-client/releases/download/0.15.0/ollama-client-0.15.0-chrome.zip) | 22.6 MiB | `other` |
+| [ollama-client-0.15.0-firefox.zip](https://github.com/Shishir435/ollama-client/releases/download/0.15.0/ollama-client-0.15.0-firefox.zip) | 23.3 MiB | `other` |
+| [ollama-client-0.15.0-sources.zip](https://github.com/Shishir435/ollama-client/releases/download/0.15.0/ollama-client-0.15.0-sources.zip) | 4.7 MiB | `other` |
 
 ## Improve this data
 
@@ -80,4 +80,4 @@ Install metadata for ollama-client lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T09:04:51Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:45:33Z._
