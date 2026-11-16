@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 24438576,
       "digest": "sha256:ca96ad30560afad49ebf34480bc82c4788f55c058f0fd71750b7d1feada3c86e",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-10T15:10:10Z",
       "updated_at": "2026-11-10T15:10:11Z",
       "browser_download_url": "https://github.com/Shishir435/ollama-client/releases/download/0.15.0/ollama-client-0.15.0-firefox.zip"
