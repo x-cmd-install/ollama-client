@@ -32,28 +32,28 @@ Total: **398,180** lines of code across **1980** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `0.15.0` (2026-11-10)
+- **Latest**: `0.15.1-rc.1` (2026-11-10)
 - **Last commit**: 2026-11-10
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 76 · **Forks**: 15 · **Open issues**: 42 · **Contributors**: 2
+- **Stars**: 75 · **Forks**: 15 · **Open issues**: 42 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 61 · **Merged PRs**: 449 · **Open PRs**: 3 · **Closed issues**: 25 · **Open issues**: 17 · **Commits**: 1465
+- **Releases**: 62 · **Merged PRs**: 450 · **Open PRs**: 3 · **Closed issues**: 25 · **Open issues**: 17 · **Commits**: 1465
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 4 | 45 | 3 | 0 | 2 | 19 |
-| last60d | 2026-09-24 | 7 | 102 | 3 | 0 | 9 | 81 |
-| 90d | 2026-08-25 | 12 | 194 | 3 | 3 | 14 | 173 |
-| last180d | 2026-05-27 | 36 | 394 | 3 | 8 | 15 | 729 |
-| 360d | 2025-11-28 | 41 | 423 | 3 | 18 | 16 | 1041 |
-| last720d | 2024-12-03 | 61 | 449 | 3 | 25 | 17 | 1465 |
+| 30d | 2026-10-25 | 4 | 43 | 3 | 0 | 2 | 19 |
+| last60d | 2026-09-25 | 8 | 101 | 3 | 0 | 9 | 81 |
+| 90d | 2026-08-26 | 13 | 194 | 3 | 3 | 14 | 173 |
+| last180d | 2026-05-28 | 37 | 392 | 3 | 8 | 15 | 729 |
+| 360d | 2025-11-29 | 42 | 423 | 3 | 18 | 16 | 1041 |
+| last720d | 2024-12-04 | 62 | 450 | 3 | 25 | 17 | 1465 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for ollama-client lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T11:23:41Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:48:47Z._
